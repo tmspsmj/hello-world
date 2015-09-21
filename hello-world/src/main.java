@@ -4,6 +4,6 @@ public class main {
 		// first java program
 		System.out.print("hello world!");
 		System.out.print("goodbye world!");
-		System.out.print("test github");
+		System.out.print("test2 github");
 	}
 }
